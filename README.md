@@ -1,4 +1,4 @@
-# Testing-api
+# vidsrc-api
 
 [![Status](https://img.shields.io/badge/status-running-red)](https://api-movie-source.vercel.app/)
 [![Deployment](https://img.shields.io/badge/deployment-success-blue)](https://api-movie-source.vercel.app/)
